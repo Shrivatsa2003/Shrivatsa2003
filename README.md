@@ -1,5 +1,6 @@
-## Hi there 👋
+# 👋 Hey amazing peeps, I'm Shrivatsa!
 
+    ✨ Making sense of chaos with a compiler and a coffee mug.
 <!--
 **Shrivatsa2003/Shrivatsa2003** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
