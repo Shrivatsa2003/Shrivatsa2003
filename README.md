@@ -5,3 +5,29 @@
 🔧 Building things with React Native, Spring Boot, and Node.js  
 🌱 Always learning — currently diving deeper into Java & backend engineering  
 🌩️ On a journey to master cloud architecture and deployment.
+
+
+## ☕ About Me
+
+🏢 Passionate about building projects that solve real problems  
+⚙️ Daily coding arsenal: `Java`, `SQL`, `C++`  
+🛠️ Interests: Backend development, system design, microservices, full-stack apps  
+💬 Let's chat about software design, scalability, cloud tech, and yes—dark mode all the way  
+📫 Find me on [LinkedIn](https://www.linkedin.com/in/shrivatsakc/) | 📧 chitgopkarshrivatsa@gmail.com 
+⚡ Fun fact: I have a knack for picking the slowest checkout line 🛒🐢
+
+---
+
+## 🧰 My Toolbox
+
+### 💻 Languages  
+`Java` `SQL` `C++`
+
+### 📚 Frameworks & Libraries  
+`Spring Boot` `Node.js` `Express.js` 
+
+### 🗄️ Databases  
+`MySQL` `PostgreSQL` 
+
+### 🛠 Tools  
+`Docker` `Linux` `Git`
