@@ -13,8 +13,8 @@
 ⚙️ Daily coding arsenal: `Java`, `SQL`, `C++`  
 🛠️ Interests: Backend development, system design, microservices, full-stack apps  
 💬 Let's chat about software design, scalability, cloud tech, and yes—dark mode all the way  
-📫 Find me on [LinkedIn](https://www.linkedin.com/in/shrivatsakc/) | 📧 chitgopkarshrivatsa@gmail.com 
-⚡ Fun fact: I have a knack for picking the slowest checkout line 🛒🐢
+📫 Find me on [LinkedIn](https://www.linkedin.com/in/shrivatsakc/) | 📧 chitgopkarshrivatsa@gmail.com    
+🐛 Fun fact: My keyboard has seen more bugs than a rainforest. ⌨️
 
 ---
 
